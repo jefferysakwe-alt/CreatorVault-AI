@@ -19,7 +19,7 @@ export default function Home() {
         <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
 
           <a
-            href="https://your-link-here.com"
+            href="https://vasgvg.gumroad.com/l/AI-optimization"
             target="_blank"
             className="bg-zinc-900 border border-zinc-800 hover:border-green-500 hover:scale-[1.02] transition rounded-3xl p-8"
           >
@@ -39,7 +39,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://your-link-here.com"
+            href="https://vasgvg.gumroad.com/l/AI-pro"
             target="_blank"
             className="bg-zinc-900 border border-zinc-800 hover:border-yellow-500 hover:scale-[1.02] transition rounded-3xl p-8"
           >
@@ -59,7 +59,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://your-link-here.com"
+            href="https://vasgvg.gumroad.com/l/prime"
             target="_blank"
             className="bg-zinc-900 border border-zinc-800 hover:border-cyan-500 hover:scale-[1.02] transition rounded-3xl p-8"
           >
@@ -79,7 +79,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://your-link-here.com"
+            href="https://vasgvg.gumroad.com/l/aitool"
             target="_blank"
             className="bg-zinc-900 border border-zinc-800 hover:border-red-500 hover:scale-[1.02] transition rounded-3xl p-8"
           >
@@ -99,7 +99,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://your-link-here.com"
+            href="https://vasgvg.gumroad.com/l/power"
             target="_blank"
             className="bg-zinc-900 border border-zinc-800 hover:border-purple-500 hover:scale-[1.02] transition rounded-3xl p-8"
           >
@@ -119,7 +119,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://your-link-here.com"
+            href="https://vasgvg.gumroad.com/l/viral"
             target="_blank"
             className="bg-zinc-900 border border-zinc-800 hover:border-pink-500 hover:scale-[1.02] transition rounded-3xl p-8"
           >
@@ -139,7 +139,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://your-link-here.com"
+            href="https://vasgvg.gumroad.com/l/premium"
             target="_blank"
             className="bg-zinc-900 border border-zinc-800 hover:border-orange-500 hover:scale-[1.02] transition rounded-3xl p-8"
           >
@@ -159,7 +159,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://your-link-here.com"
+            href="https://vasgvg.gumroad.com/l/escape"
             target="_blank"
             className="bg-zinc-900 border border-zinc-800 hover:border-blue-500 hover:scale-[1.02] transition rounded-3xl p-8"
           >
@@ -179,7 +179,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://your-link-here.com"
+            href="https://vasgvg.gumroad.com/l/blueprint"
             target="_blank"
             className="bg-zinc-900 border border-zinc-800 hover:border-emerald-500 hover:scale-[1.02] transition rounded-3xl p-8"
           >
